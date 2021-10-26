@@ -1,3 +1,6 @@
 lasagna
 sushi
 tacos
+pizza
+lobster
+charcuterie
