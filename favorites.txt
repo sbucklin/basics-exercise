@@ -7,3 +7,6 @@ charcuterie
 Dune
 The Last of the Mohicans
 Bottleshock
+Lord of the Rings
+Braveheart
+Stardust
