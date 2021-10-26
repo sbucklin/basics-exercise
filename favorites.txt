@@ -1,6 +1,9 @@
 lasagna
 sushi
 tacos
+pizza
+lobster
+charcuterie
 Dune
 The Last of the Mohicans
 Bottleshock
